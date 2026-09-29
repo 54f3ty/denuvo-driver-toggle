@@ -28,6 +28,12 @@
 4. Toggle the service ON/OFF as needed.
 5. Monitor the status indicator.
 
+### Building from source
+```powershell
+cd DriverToggle
+dotnet build
+```
+
 Always refer to the original instructions/source for your hypervisor crack/driver setup — this tool only simplifies the driver loading/unloading part.
 
 ### Disclaimer
